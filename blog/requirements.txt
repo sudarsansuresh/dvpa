@@ -33,4 +33,10 @@ wcwidth==0.2.5
 Werkzeug==3.0.3
 wtf-peewee==3.0.2
 WTForms==3.0.1
+ipython==8.20.0
+jinja2==3.1.4
+pymysql==1.1.0
+pymongo==4.6.1
+pygments==2.17.2
+werkzeug==3.0.4
 
