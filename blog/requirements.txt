@@ -10,11 +10,11 @@ flask-peewee==3.0.4
 Flask-Script==2.0.6
 Flask-WTF==1.0.1
 ipdb==0.13.9
-ipython==8.4.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jedi==0.18.1
-Jinja2==3.1.4
+Jinja2==3.1.5
 MarkupSafe==2.1.1
 mongoengine==0.24.1
 mysqlclient==2.1.0
@@ -24,7 +24,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.29
 ptyprocess==0.7.0
-Pygments==2.12.0
+Pygments==2.15.0
 pymongo==4.7.0
 PyMySQL==1.1.1
 PyYAML==6.0
@@ -33,10 +33,3 @@ wcwidth==0.2.5
 Werkzeug==3.0.3
 wtf-peewee==3.0.2
 WTForms==3.0.1
-ipython==8.20.0
-jinja2==3.1.4
-pymysql==1.1.0
-pymongo==4.6.1
-pygments==2.17.2
-werkzeug==3.0.4
-
